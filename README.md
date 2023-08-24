@@ -1,10 +1,15 @@
 Implemented a raytracer with triangle and sphere intersections, Phong shading and shadows, anti-aliasing, Monte-Carlo sampling, and custom scenes.
 
-Functionality: Run the raytracer as per the assignment. 
+Functionality: Run the raytracer(external libraries necessary). 
+
 Usage: '<input scenefile> [output jpegname]'
+
 For supersampling anti-aliasing, add a 1 to the end of the command line argument
+
 Usage: '<input scenefile> [output jpegname] [optional: 1 if anti-aliased]'
+
 For Monte-Carlo sampling, add a 2 to the end of the command line argument
+
 Usage: '<input scenefile> [output jpegname] [optional: 2 if MC]'
 
 Stills:
