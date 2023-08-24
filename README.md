@@ -9,40 +9,34 @@ Usage: '<input scenefile> [output jpegname] [optional: 2 if MC]'
 
 Stills:
 
-Here is a description of the images in the stills folder
-
-000.jpg - test2 scene
+basic scene
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/000.jpg)
 
-001.jpg - test2 scene w antialiasing
+basic scene w antialiasing
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/001.jpg)
 
-002.jpg - test2 scene w monte-carlo
+basic scene w monte-carlo
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/002.jpg)
 
-003.jpg - test2 scene
+shelf scene
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/003.jpg)
 
-004.jpg - test2 scene w antialiasing
+shelf w antialiasing
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/004.jpg)
 
-005.jpg - test2 scene w monte-carlo
+shelf w monte-carlo
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/005.jpg)
 
-006.jpg - abstract scene
-
-![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/006.jpg)
-
-007.jpg - toy scene
+toy scene
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/007.jpg)
 
-008.jpg - snow scene
+snow scene
 
 ![](https://github.com/kevdozer1/raytracer/blob/main/hw3-starterCode/stills/008.jpg)
