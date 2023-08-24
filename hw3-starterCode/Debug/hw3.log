@@ -1,0 +1,26 @@
+﻿  hw3.cpp
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(312,26): warning C4101: 'v2': unreferenced local variable
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(475,33): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(476,33): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(477,33): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(638,41): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(639,41): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(640,41): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(664,107): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(664,79): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(664,51): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(801,37): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(802,37): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(803,37): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(827,107): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(827,79): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(827,51): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(837,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(837,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\hw3.cpp(837,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  hw3.vcxproj -> C:\Users\Kevin\Desktop\cs420Raytracer\hw3-starterCode\Bin\Debug\hw3.exe

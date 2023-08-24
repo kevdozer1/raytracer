@@ -1,0 +1,197 @@
+13
+amb: 0.01 0.24 0.10
+light
+pos: -1 0.333 -1
+col: 1 1 1
+triangle
+pos: -1 4 -5
+nor: 0 0 1
+dif: 0.8 0.8 0.8
+spe: 0.9 0.2 0.2
+shi: 50
+pos: 1 0 -5
+nor: 0 0 1
+dif: 0.8 0.8 0.8
+spe: 0.2 0.9 0.2
+shi: 50
+pos: 1 2 -5
+nor: 0 0 1
+dif: 0.8 0.8 0.8
+spe: 0.2 0.2 0.9
+shi: 50
+triangle
+pos: -1 0 -6
+nor: 0 0 1
+dif: 0.8 0.8 0.8
+spe: 0.2 0.2 0.9
+shi: 50
+pos: 1 2 -5
+nor: 0 0 1
+dif: 0.8 0.8 0.8
+spe: 0.2 0.9 0.2
+shi: 50
+pos: -1 2 -5
+nor: 0 0 1
+dif: 0.8 0.8 0.8
+spe: 0.9 0.2 0.2
+shi: 50
+triangle
+pos: 6 0 -5
+nor: 1 0 0
+dif: 0.5 0.5 0.9
+spe: 0.9 0.2 0.2
+shi: 50
+pos: 1 0 -7
+nor: 1 0 0
+dif: 0.5 0.9 0.5
+spe: 0.2 0.9 0.2
+shi: 50
+pos: 1 8 -7
+nor: 1 0 0
+dif: 0.9 0.5 0.5
+spe: 0.2 0.2 0.9
+shi: 50
+triangle
+pos: 1 0 -5
+nor: 1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.9 0.2 0.2
+shi: 50
+pos: 7 2 -7
+nor: 1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.2 0.9 0.2
+shi: 50
+pos: 1 2 -5
+nor: 1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.2 0.2 0.9
+shi: 50
+triangle
+pos: -1 0 -9
+nor: -1 0 0
+dif: 0.5 0.9 0.5
+spe: 0.2 0.2 0.9
+shi: 50
+pos: -1 2 -7
+nor: -1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.2 0.9 0.2
+shi: 50
+pos: -6 0 -7
+nor: -1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.9 0.2 0.2
+shi: 50
+triangle
+pos: -1 0 -5
+nor: -1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.2 0.2 0.9
+shi: 50
+pos: -1 7 -5
+nor: -1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.2 0.9 0.2
+shi: 50
+pos: -1 2 -7
+nor: -1 0 0
+dif: 0.5 0.5 0.5
+spe: 0.9 0.2 0.2
+shi: 50
+triangle
+pos: -0.7 1.5 -5.01
+nor: 0 0 1
+dif: 0 0 1
+spe: 0.2 0.2 0.2
+shi: 50
+pos: -0.4 1.5 -5.01
+nor: 0 0 1
+dif: 0 0 1
+spe: 0.2 0.2 0.2
+shi: 50
+pos: -0.4 10.2 -5.01
+nor: 0 0 1
+dif: 0 0 1
+spe: 0.2 0.2 0.2
+shi: 50
+triangle
+pos: -0.7 1.5 -5.01
+nor: 0 0 1
+dif: 0 0 1
+spe: 0.2 0.2 0.2
+shi: 50
+pos: -0.4 15.2 -5.01
+nor: 0 0 1
+dif: 0 0 1
+spe: 0.2 0.2 0.2
+shi: 50
+pos: -0.7 1.2 -5.01
+nor: 0 0 1
+dif: 0 0 1
+spe: 0.2 0.2 0.2
+shi: 50
+triangle
+pos: 0.7 1.5 -5.01
+nor: 0 0 1
+dif: 0 1 1
+spe: 0.9 0.9 0.9
+shi: 50
+pos: 0.4 14.5 -5.01
+nor: 0 0 1
+dif: 0 1 1
+spe: 0.9 0.9 0.9
+shi: 50
+pos: 0.4 1.2 -5.01
+nor: 0 0 1
+dif: 0 1 1
+spe: 0.9 0.9 0.9
+shi: 50
+triangle
+pos: 0.7 1.5 -5.01
+nor: 0 0 1
+dif: 0 1 1
+spe: 0.9 0.9 0.9
+shi: 50
+pos: 0.4 1.2 -5.01
+nor: 0 0 1
+dif: 0 1 1
+spe: 0.9 0.9 0.9
+shi: 50
+pos: 0.7 1.2 -5.01
+nor: 0 0 1
+dif: 0 1 1
+spe: 0.9 0.9 0.9
+shi: 50
+triangle
+pos: -10 -1.05 -12
+nor: 0 1 0
+dif: 0.9 0.7 0.3
+spe: 0.5 0.5 0.5
+shi: 20
+pos: -10 -1.05 8
+nor: 0 1 0
+dif: 0.9 0.7 0.3
+spe: 0.5 0.5 0.5
+shi: 20
+pos: 10 -1.05 -12
+nor: 0 1 0
+dif: 0.9 0.7 0.3
+spe: 0.5 0.5 0.5
+shi: 20
+triangle
+pos: 10 -1.05 -12
+nor: 0 1 0
+dif: 0.9 0.7 0.3
+spe: 0.5 0.5 0.5
+shi: 20
+pos: -10 -1.05 8
+nor: 0 1 0
+dif: 0.9 0.7 0.3
+spe: 0.5 0.5 0.5
+shi: 20
+pos: 10 -1.05 8
+nor: 0 1 0
+dif: 0.9 0.7 0.3
+spe: 0.5 0.5 0.5
+shi: 20
