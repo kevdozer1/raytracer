@@ -1,5 +1,7 @@
 Implemented a raytracer with triangle and sphere intersections, Phong shading and shadows, anti-aliasing, Monte-Carlo sampling, and custom scenes.
 
+Main implementations are in hw3-starterCode/hw3.cpp
+
 Functionality: Run the raytracer(external libraries necessary). 
 
 Usage: '<input scenefile> [output jpegname]'
