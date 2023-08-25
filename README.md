@@ -2,6 +2,8 @@ Implemented a raytracer with triangle and sphere intersections, Phong shading an
 
 Main implementations are in hw3-starterCode/hw3.cpp
 
+___
+
 Functionality: Run the raytracer(external libraries necessary). 
 
 Usage: '<input scenefile> [output jpegname]'
